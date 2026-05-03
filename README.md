@@ -1,5 +1,3 @@
-# listinglens
-Paste any Amazon URL → Claude roasts your listing, scores it A–F across 6 categories, and generates an AI hero image showing its potential.
 # ⬡ ListingLens
 
 AI-powered Amazon listing analyzer. Paste any product URL and get a full report card —
