@@ -4,7 +4,7 @@ AI-powered Amazon listing analyzer. Paste any product URL and get a full report 
 Claude scores your title, images, bullets and copy across 6 categories, writes a
 product-specific roast, and generates an AI hero image showing what your listing could look like.
 
-**Live demo → [your-link.vercel.app](https://your-link.vercel.app)**
+**Live demo → [https://listinglens-cyan.vercel.app?_vercel_share=7jPFDb4WGLfmrqqRb4ol9Q7mCJKYctLR]**
 
 ## Built with
 - **Claude API** — analysis, scoring, roast, fix recommendations
